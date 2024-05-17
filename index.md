@@ -4,7 +4,7 @@ This is my home page! My name is Matthew Lau and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is https://mattulau.github.io/mattulau/
+My GitHub page is https://github.com/mattulau
 
 ### CPSC 120
 
